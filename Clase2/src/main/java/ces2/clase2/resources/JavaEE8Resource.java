@@ -1,4 +1,4 @@
-package com.mycompany.clase2.resources;
+package ces2.clase2.resources;
 
 import javax.ws.rs.GET;
 import javax.ws.rs.Path;

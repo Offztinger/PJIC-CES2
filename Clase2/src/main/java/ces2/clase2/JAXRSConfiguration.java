@@ -1,4 +1,4 @@
-package com.mycompany.clase2;
+package ces2.clase2;
 
 import javax.ws.rs.ApplicationPath;
 import javax.ws.rs.core.Application;
